@@ -1,2 +1,2 @@
 # login-page
-learning frontend web development
+Learning frontend web development for projects
